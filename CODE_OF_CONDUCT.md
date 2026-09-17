@@ -1,4 +1,4 @@
-Common Tools expects contributors to act professionally and respectfully. Contributors are expected to maintain  the safety and dignity of the project's social environments (such as GitHub and Discord) at all times.
+Common Fabric expects contributors to act professionally and respectfully. Contributors are expected to maintain  the safety and dignity of the project's social environments (such as GitHub and Discord) at all times.
 
 Specifically:
 
@@ -8,10 +8,10 @@ Specifically:
 
  * Listen. Consider and acknowledge people's points before responding.
 
-Should you experience anything that makes you feel unwelcome in this community, please contact [conduct@common.tools](mailto:conduct@common.tools) or reach out to a community member you trust to advocate on your behalf.
+Should you experience anything that makes you feel unwelcome in this community, please contact [conduct@commonfabric.com](mailto:conduct@commonfabric.com) or reach out to a community member you trust to advocate on your behalf.
 
 Violations of this code of conduct will result in bans of escalating length up to and including permanent bans for egregious or repeat violations.
 
 This project will not tolerate harassment in its community, even outside of its public communication channels.
 
-_See also: [our values](https://github.com/commontoolsinc/labs#values)._
+_See also: [our values](https://github.com/commonfabric/labs#values)._
